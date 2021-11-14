@@ -1,5 +1,5 @@
 # midProject
-
+# [tunduk.kg](https://aibekkarshiboev.github.io/midProject/)
 
 
 ## screenshots
